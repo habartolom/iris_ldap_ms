@@ -1,0 +1,17 @@
+{
+  "name": "iris_ldap_ms",
+  "version": "1.0.0",
+  "description": "LDAP API",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Iris",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "express": "^4.17.2",
+    "ldapjs": "^2.3.1"
+  }
+}
